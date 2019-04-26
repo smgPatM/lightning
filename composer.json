@@ -145,7 +145,7 @@
         "drupal/panels": "4.2.0",
         "drupal/panelizer": "4.0.0",
         "drupal/scheduled_updates": "1.0.0-alpha6",
-        "drupal/workbench_moderation": "1.2.0",
+        "drupal/workbench_moderation": "^1.2.0",
         "drupal/acquia_connector": "^1.1",
         "drupal/config_update": "^1.1",
         "drupal/features": "^3.0",
