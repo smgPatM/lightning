@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "49505c52a338ae9e51936163bebe4849",
+    "content-hash": "c9a6c7f17d4db8441786602482335e49",
     "packages": [
         {
             "name": "asm89/stack-cors",
@@ -2612,8 +2612,7 @@
                         "status": "covered",
                         "message": "Covered by Drupal's security advisory policy"
                     }
-                },
-                "patches_applied": []
+                }
             },
             "notification-url": "https://packages.drupal.org/8/downloads",
             "license": [
@@ -3501,17 +3500,17 @@
         },
         {
             "name": "drupal/video_embed_field",
-            "version": "2.0.0-alpha1",
+            "version": "1.5.0",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/video_embed_field.git",
-                "reference": "8.x-2.0-alpha1"
+                "reference": "8.x-1.5"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/video_embed_field-8.x-2.0-alpha1.zip",
-                "reference": "8.x-2.0-alpha1",
-                "shasum": "4ce3d9f0b01a9c9351d7eba453384ca8da6935f6"
+                "url": "https://ftp.drupal.org/files/projects/video_embed_field-8.x-1.5.zip",
+                "reference": "8.x-1.5",
+                "shasum": "f54d470ef7f863604e51e6ae98cd40ef25de5f79"
             },
             "require": {
                 "drupal/core": "*"
@@ -3524,14 +3523,14 @@
             "type": "drupal-module",
             "extra": {
                 "branch-alias": {
-                    "dev-2.x": "2.x-dev"
+                    "dev-1.x": "1.x-dev"
                 },
                 "drupal": {
                     "version": "8.x-1.x",
-                    "datestamp": "1506684843",
+                    "datestamp": "1510132373",
                     "security-coverage": {
-                        "status": "not-covered",
-                        "message": "Alpha releases are not covered by Drupal security advisories."
+                        "status": "covered",
+                        "message": "Covered by Drupal's security advisory policy"
                     },
                     "package": "Field types"
                 }
@@ -3557,7 +3556,7 @@
             "description": "A pluggable field type for storing videos from external video hosts such as Vimeo and YouTube.",
             "homepage": "https://www.drupal.org/project/video_embed_field",
             "support": {
-                "source": "http://cgit.drupalcode.org/video_embed_field"
+                "source": "https://git.drupalcode.org/project/video_embed_field"
             }
         },
         {
