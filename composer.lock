@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "06dbb61e93385f8e966e7b4f1f9719c2",
+    "content-hash": "17193b1da847d13233eb3b8724342a19",
     "packages": [
         {
             "name": "asm89/stack-cors",
@@ -1284,6 +1284,8 @@
             "type": "drupal-core",
             "extra": {
                 "patches_applied": {
+                    "1356276 - 8.4 compat - Allow profiles to provide a base/parent profile and load them in the correct order": "https://www.drupal.org/files/issues/1356276-419--8.4.4.patch",
+                    "2883813 - 8.5 compat - Move File/Image media type into Standard once Media is stable": "https://www.drupal.org/files/issues/2883813-27.patch",
                     "2880374 - Experimental modules should not have warnings after being installed": "https://www.drupal.org/files/issues/2880374-remove-experimental-warnings-6.patch",
                     "2869592 - Disabled update module shouldn't produce a status report warning": "https://www.drupal.org/files/issues/2869592-remove-update-warning-7.patch",
                     "2885441 - EntityReferenceAutocompleteWidget should define its size setting as an integer": "https://www.drupal.org/files/issues/2885441-2.patch",
