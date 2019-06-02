@@ -130,10 +130,6 @@
                 "2908917 - SaveTabView blindly assumes a Revert tab exists":
                 "https://www.drupal.org/files/issues/2908917-2.patch"
             },
-            "drupal/crop": {
-                "Make Crop API compatible with core Media":
-                "https://www.drupal.org/files/issues/2918441-beta1-packaged-info-file.patch"
-            },
             "drupal/simple_oauth": {
                 "2925369 - TokenAuthUser does not fulfill RevisionableInterface, causes fatals":
                 "https://www.drupal.org/files/issues/2925369-2.patch"
@@ -181,7 +177,7 @@
         "oomphinc/composer-installers-extender": "^1.1",
         "drupal/dropzonejs": "2.0.0-alpha3",
         "bower-asset/dropzone": "^5.1",
-        "drupal/crop": "^2.0.0-beta1",
+        "drupal/crop": "2.0-rc1",
         "drupal/image_widget_crop": "^2.1",
         "bower-asset/cropper": "^2.3",
         "drupal/wbm2cm": "2.0.0-beta1",
