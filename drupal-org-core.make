@@ -9,4 +9,3 @@ projects[drupal][patch][] = https://www.drupal.org/files/issues/2880374-remove-e
 projects[drupal][patch][] = https://www.drupal.org/files/issues/2869592-remove-update-warning-7.patch
 projects[drupal][patch][] = https://www.drupal.org/files/issues/2885441-2.patch
 projects[drupal][patch][] = https://www.drupal.org/files/issues/2877383-23.patch
-projects[drupal][patch][] = https://www.drupal.org/files/issues/2815221-69-8.4.x.patch
