@@ -1,6 +1,6 @@
 {
     "name": "acquia/lightning",
-    "description": "The best of Drupal, curated by Acquia",
+    "description": "The best of Drupal, curated by Acquia, mod by SMG",
     "type": "drupal-profile",
     "license": "GPL-2.0+",
     "minimum-stability": "dev",
