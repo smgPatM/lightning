@@ -185,7 +185,7 @@
         "drupal/image_widget_crop": "^2.1",
         "bower-asset/cropper": "^2.3",
         "drupal/wbm2cm": "2.0.0-beta1",
-        "phpdocumentor/reflection-docblock": "^3.0|^4.0",
+        "phpdocumentor/reflection-docblock": "^2.0|^3.0|^4.0",
         "drupal/console": "1.6.1",
         "drush/drush": ">8.1.14"
     },
