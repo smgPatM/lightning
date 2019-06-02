@@ -182,7 +182,7 @@
         "oomphinc/composer-installers-extender": "^1.1",
         "drupal/dropzonejs": "2.0.0-alpha3",
         "bower-asset/dropzone": "^5.1",
-        "drupal/crop": "2.0.0-beta1",
+        "drupal/crop": "^2.0.0-beta1",
         "drupal/image_widget_crop": "^2.1",
         "bower-asset/cropper": "^2.3",
         "drupal/wbm2cm": "2.0.0-beta1",
